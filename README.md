@@ -9,13 +9,9 @@
                 <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FYorMonke">
             </a>
 
-![Static Badge](https://img.shields.io/badge/MONKE.YOR-INSTAGRAM?style=social&logo=instagram&color=FDFEFE%20)
-
-<a href="https://www.instagram.com/monke.yor/" target="_blank">
-                    <img alt="Static Badge" src="https://img.shields.io/badge/MONKE.YOR-INSTAGRAM?style=social&logo=instagram&color=FDFEFE%20">
 
 
-                </a>
+
 
 <!--
 **MonkeYor13/MonkeYor13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
