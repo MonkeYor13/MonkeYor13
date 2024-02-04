@@ -11,8 +11,9 @@
 
 ![Static Badge](https://img.shields.io/badge/MONKE.YOR-INSTAGRAM?style=social&logo=instagram&color=FDFEFE%20)
 
- <a href="https://www.instagram.com/monke.yor/" target="_blank">
-                    ![Static Badge](https://img.shields.io/badge/MONKE.YOR-INSTAGRAM?style=social&logo=instagram&color=FDFEFE%20)
+<a href="https://www.instagram.com/monke.yor/" target="_blank">
+                    <img alt="Static Badge" src="https://img.shields.io/badge/MONKE.YOR-INSTAGRAM?style=social&logo=instagram&color=FDFEFE%20">
+
 
                 </a>
 
