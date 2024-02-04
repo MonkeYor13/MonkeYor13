@@ -3,9 +3,10 @@
 
 ![m1](https://github.com/MonkeYor13/MonkeYor13/assets/90053187/28f08a39-07ce-48ae-98c2-9c3b252e432e)
 
-
+<div>
+    
                 <img alt="Static Badge" src="https://img.shields.io/badge/FOLLOWING%20MY%20SOCIAL-FOLLOWING?logo=alienware&color=E8563C">
-
+</div>
             <li>
                 <a href="https://twitter.com/YorMonke" target="_blank" rel="noopener noreferrer">
                     <img alt="X (formerly Twitter) URL"
