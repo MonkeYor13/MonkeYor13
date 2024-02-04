@@ -11,7 +11,10 @@
 
 ![Static Badge](https://img.shields.io/badge/MONKE.YOR-INSTAGRAM?style=social&logo=instagram&color=FDFEFE%20)
 
+ <a href="https://www.instagram.com/monke.yor/" target="_blank">
+                    ![Static Badge](https://img.shields.io/badge/MONKE.YOR-INSTAGRAM?style=social&logo=instagram&color=FDFEFE%20)
 
+                </a>
 
 <!--
 **MonkeYor13/MonkeYor13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
