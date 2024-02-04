@@ -6,6 +6,7 @@
 <div>
      <img alt="Static Badge" src="https://img.shields.io/badge/FOLLOWING%20MY%20SOCIAL-FOLLOWING?logo=alienware&color=E8563C">
 </div>
+<div>
 <a href="https://twitter.com/YorMonke" target="_blank" rel="noopener noreferrer">
     <img alt="X (formerly Twitter) URL"
                         src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FYorMonke">
@@ -14,7 +15,7 @@
                     <img alt="Static Badge"
                         src="https://img.shields.io/badge/MONKE.YOR-INSTAGRAM?style=social&logo=instagram&color=FDFEFE%20">
 </a>
-   
+</div>   
 
 
 
