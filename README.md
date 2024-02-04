@@ -1,5 +1,5 @@
 <h1>Hi!👋 I'm Yorvis Rodriguez!👽</h1>
-    <h3> Let's create code 💻✨ #MonkeYor🐒</h3>
+<h3> Let's create code 💻✨ #MonkeYor🐒</h3>
 
 ![m1](https://github.com/MonkeYor13/MonkeYor13/assets/90053187/28f08a39-07ce-48ae-98c2-9c3b252e432e)
 <div>
@@ -19,7 +19,7 @@
 🤖 I'm a passionate mobile app developer in Argentina 📱, specializing in React Native, Flutter, and Kotlin 💻🔥. Currently, I am learning and honing my skills in these languages. I work in Farmacity company at the systems area 💻, contributing to the design and development of innovative solutions. My inspiration comes from 🎧 hip hop 🎶, a musical genre that complements my creative approach. I am excited to continue growing professionally in the field of technology. 🚀 Let's go!👽✨
 </p>
 
-## LIKE ME
+## LIKE IT!
 🎧 [SPOTIFY](https://open.spotify.com/playlist/27SZ30xZSWhDvODHEDRMwt?si=a02bffe314554c89)
 🏈 [COWBOYS](https://www.dallascowboys.com/)
 🏒 [FLORIDA PANTHERS](https://www.nhl.com/panthers/)
