@@ -2,7 +2,7 @@
     <h3> Let's create code 💻✨ #MonkeYor🐒</h3>
 
 
-
+<box-icon name='instagram-alt' type='logo' color='rgba(0,0,0,0)' ></box-icon>
 
 
 
