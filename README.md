@@ -9,6 +9,7 @@
                 <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FYorMonke">
             </a>
 
+![Static Badge](https://img.shields.io/badge/MONKE.YOR-INSTAGRAM?style=social&logo=instagram&color=FDFEFE%20)
 
 
 
