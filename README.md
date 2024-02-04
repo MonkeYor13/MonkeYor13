@@ -7,7 +7,8 @@
 https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FYorMonke
 
 
-    
+    ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FYorMonke)
+
 
 <!--
 **MonkeYor13/MonkeYor13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
