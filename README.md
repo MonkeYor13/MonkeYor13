@@ -4,22 +4,17 @@
 ![m1](https://github.com/MonkeYor13/MonkeYor13/assets/90053187/28f08a39-07ce-48ae-98c2-9c3b252e432e)
 
 <div>
-    
-                <img alt="Static Badge" src="https://img.shields.io/badge/FOLLOWING%20MY%20SOCIAL-FOLLOWING?logo=alienware&color=E8563C">
+     <img alt="Static Badge" src="https://img.shields.io/badge/FOLLOWING%20MY%20SOCIAL-FOLLOWING?logo=alienware&color=E8563C">
 </div>
-            <li>
-                <a href="https://twitter.com/YorMonke" target="_blank" rel="noopener noreferrer">
-                    <img alt="X (formerly Twitter) URL"
+<a href="https://twitter.com/YorMonke" target="_blank" rel="noopener noreferrer">
+    <img alt="X (formerly Twitter) URL"
                         src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FYorMonke">
-                </a>
-            </li>
-            <li>
-                <a href="https://www.instagram.com/monke.yor/" target="_blank" rel="noopener noreferrer">
+</a>
+ <a href="https://www.instagram.com/monke.yor/" target="_blank" rel="noopener noreferrer">
                     <img alt="Static Badge"
                         src="https://img.shields.io/badge/MONKE.YOR-INSTAGRAM?style=social&logo=instagram&color=FDFEFE%20">
-                </a>
-            </li>
-</ul>
+</a>
+   
 
 
 
