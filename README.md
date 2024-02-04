@@ -19,7 +19,12 @@
 🤖 I'm a passionate mobile app developer in Argentina 📱, specializing in React Native, Flutter, and Kotlin 💻🔥. Currently, I am learning and honing my skills in these languages. I work in Farmacity company at the systems area 💻, contributing to the design and development of innovative solutions. My inspiration comes from 🎧 hip hop 🎶, a musical genre that complements my creative approach. I am excited to continue growing professionally in the field of technology. 🚀 Let's go!👽✨
 </p>
 
-
+## LIKE ME
+🎧 [SPOTIFY](https://open.spotify.com/playlist/27SZ30xZSWhDvODHEDRMwt?si=a02bffe314554c89)
+🏈 [COWBOYS](https://www.dallascowboys.com/)
+🏒 [FLORIDA PANTHERS](https://www.nhl.com/panthers/)
+🏀 [BOSTON CELTICS](https://www.nhl.com/panthers/)
+⚾ [NEW YORK METS](https://www.mlb.com/mets)
 
 
 <!--
