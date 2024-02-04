@@ -8,8 +8,14 @@ https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FYorMonke
 
 
     ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FYorMonke)
+    
 
 <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FYorMonke">
+
+
+<a href="https://www.instagram.com/monke.yor/" target="_blank" rel="noopener noreferrer">
+                <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FYorMonke">
+            </a>
 
 
 
