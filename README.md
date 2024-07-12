@@ -16,7 +16,7 @@
 
 <h2>ABOUT ME</h2>
 <p>
-🤖 I'm a passionate mobile app developer in Argentina 📱, specializing in React Native, Flutter, and Kotlin 💻🔥. Currently, I am learning and honing my skills in these languages. I work in Farmacity company at the systems area 💻, contributing to the design and development of innovative solutions. My inspiration comes from 🎧 hip hop 🎶, a musical genre that complements my creative approach. I am excited to continue growing professionally in the field of technology. 🚀 Let's go!👽✨
+🤖 I'm a passionate mobile app developer in Argentina 📱, specifically on React Native, Flutter, and Kotlin 💻🔥. Currently, Im learning these languages. I work in Farmacity company at the systems area 💻, contributing to the design and development of innovative solutions. My inspiration comes from 🎧 hip hop 🎶, a musical genre that complements my creative approach. Im excited to continue growing professionally in the field of technology. 🚀 Let's go!👽✨
 </p>
 
 ## LIKE IT!
